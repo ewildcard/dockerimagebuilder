@@ -22,6 +22,7 @@ RUN apt-get update \
     php7.0 \
     php7.0-dom \
     php7.0-xml \
+    php7.0-mbstring \
     nodejs \
     npm \
     ruby
