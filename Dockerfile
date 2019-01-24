@@ -32,5 +32,3 @@ RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local
 RUN gem install sass -v 3.4.19
 
 RUN /usr/bin/npm install -g grunt-cli
-
-RUN /usr/bin/npm install -g @angular/cli
